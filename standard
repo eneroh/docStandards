@@ -2,15 +2,18 @@
 
 --- Sub Heading ---
 
-* Dotpoint
+* Unordered list
 
-- Sub dotpoint
+- Sub unordered list
 
 ** Emphasis
 
 --> Important numbered address/heavy emphasis
 
 " Quotation " (Italics)
+
+color changed word/s to blue - working and useful for future
+color changed word/s to red - checked and empty/failure
 
 ==============================================
                     Table
